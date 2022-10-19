@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+section#login{
+    width: 900px;  
+}
+
+section#login > div#imagem{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+section#login > div#formulario{
+    float: right;
+    width: 50%;
+}
+
+form{
+    padding: 10px; 
+}
+
+div#formulario > h1{
+    text-align: center;
+    margin: 10px 0px;
+    font-size: 2em;
+}
+
+div#formulario > p  {
+    font-size: 1.2em;
+}
+
+form{
+    display: block;
+    margin: auto;
+    width: 430px;
+}
+input{
+    width: 92%;
+}

@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+section#login {
+    width: 70vw;
+    height: 90vh;
+}   
+form{
+    display: block;
+    margin: auto;
+    width: 490px;
+    margin-top: 20px;
+}
+input{
+    width: 94%;
+}
