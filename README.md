@@ -1,4 +1,6 @@
-# projeto-login
+# Projeto tela de Login
 
- <a href="https://gustavoluthiano.github.io/projeto-login/" target="_blank">Projeto Tela de Login</a>
+Minha primeira Tela de login, simples e responsiva.
+
+Projeto Tela de Login: https://gustavoluthiano.github.io/projeto-login/
 
